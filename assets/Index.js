@@ -1,3 +1,4 @@
+function play(){
 var RandomNumber1=Math.floor(Math.random()*6)+1;
 
 var randomimge1="dice"+RandomNumber1+".png";
@@ -25,4 +26,4 @@ if(RandomNumber1>RandomNumber2){
 }else{
     document.querySelector("h1").innerHTML="draw!!";
 }
-
+}
