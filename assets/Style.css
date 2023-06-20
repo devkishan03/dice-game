@@ -38,9 +38,9 @@ body{
 .p{
     font-size: 40px;
 }
-@media(max-width:400px){
+@media(max-width:350px){
     .contain{
-        width: 400px;
+        width: 350px;
         height: 100vh;
         margin: 0;
         padding: 0;
