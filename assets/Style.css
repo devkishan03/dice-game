@@ -48,7 +48,9 @@ body{
        
 }
 
-
+h1{
+    font-size: 60px;
+}
 
 .heading{
   position: absolute;
